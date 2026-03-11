@@ -8,9 +8,10 @@ import Benefits from './components/Benefits'
 import Manage from './components/manageRides'
 import Solution from './components/Solution'
 import Registration from './components/Registration'
+import Question from './components/Question'
+import Footer from './components/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -20,6 +21,8 @@ function App() {
       <Manage />
       <Solution />
       <Registration />
+      <Question />
+      <Footer />
     </>
   )
 }
