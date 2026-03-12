@@ -3,9 +3,9 @@ import girlSits from '../assets/girlSitsCar.png'
 function manageRides() {
   return (
     <>
-      <div className="flex items-center justify-center gap-[1rem] w-full px-[8rem] py-[8rem]">
-        <div className="flex items-center justify-center w-full">
-          <img src={girlSits} className='rounded-3xl w-[80%] object-cover' />
+      <div className="flex items-center justify-center gap-6 w-full px-[8rem] py-[8rem]">
+        <div className="w-full">
+          <img src={girlSits} className='rounded-3xl w-full object-cover' />
         </div>
         <div className="flex flex-col w-full">
           <div className="flex flex-col gap-10 w-[80%]">
