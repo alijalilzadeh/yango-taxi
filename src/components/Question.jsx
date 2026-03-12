@@ -8,7 +8,7 @@ function Question() {
           <h2 className="text-[#fff] font-medium text-[64px] tracking-tight">Still have questions?</h2>
           <p className='text-[20px] text-[#fff] tracking-tight'>Request a call and our manager will contact you with all the details</p>
           <div className="flex items-center justify-center gap-6 bg-[#fff] px-[60px] py-[6px] rounded-4xl hover:bg-[#B3B3B3] hover:text-[#1A1A1A] cursor-pointer transition duration-300 ">
-              <span className='font-medium text-[20px]'>Request a consultation</span>
+              <a href='#registration' className='font-medium text-[20px]'>Request a consultation</a>
               <IoIosArrowRoundForward className='text-[#000] text-[45px]'/>
           </div>
         </div>

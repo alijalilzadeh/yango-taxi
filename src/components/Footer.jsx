@@ -24,8 +24,8 @@ function Footer() {
         </div>
 
         <div className="flex flex-col gap-1">
-          <a href='' className="text-[#fff] text-[16px] font-medium hover:text-[#B3B3B3] transition duration-100">About us</a>
-          <a href='' className="text-[#fff] text-[16px] font-medium hover:text-[#B3B3B3] transition duration-100">App Permissions</a>
+          <a href='https://yango.com/legal/app-permissions_en/?utm_campaign=AZ-BA-BA_brand_en&utm_category=CjwKCAjwpcTNBhA5EiwAdO1S9u5TN8_HhuKIE8mnEZAoHNrThNA09hg1bFcIKwgAKqCuYusD3t2mmxoCkDwQAvD_BwE&utm_source=google_re' target='_blank' className="text-[#fff] text-[16px] font-medium hover:text-[#B3B3B3] transition duration-100">About us</a>
+          <a href='https://yango.com/legal/app-permissions_en/?utm_campaign=AZ-BA-BA_brand_en&utm_category=CjwKCAjwpcTNBhA5EiwAdO1S9u5TN8_HhuKIE8mnEZAoHNrThNA09hg1bFcIKwgAKqCuYusD3t2mmxoCkDwQAvD_BwE&utm_source=google_re' target='_blank' className="text-[#fff] text-[16px] font-medium hover:text-[#B3B3B3] transition duration-100">App Permissions</a>
           <a href='' className="text-[#fff] text-[16px] font-medium hover:text-[#B3B3B3] transition duration-100">Privacy Policy</a>
           <a href='' className="text-[#fff] text-[16px] font-medium hover:text-[#B3B3B3] transition duration-100">Registration form</a>
 

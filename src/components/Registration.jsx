@@ -3,7 +3,7 @@ import React from 'react'
 function Registration() {
   return (
     <>
-      <div className="flex justify-between w-full px-[60px]">
+      <div id='registration' className="flex justify-between w-full px-[60px]">
         <div className="w-full">
           <h2 className=' text-left text-[64px] text-[#000] font-medium leading-15'>Request a call to get started today</h2>
         </div>

@@ -6,7 +6,7 @@ import simplePayment from '../assets/simplePayment.svg'
 function Benefits() {
   return (
     <>
-      <div className="flex flex-col items-center justify-center w-full gap-8 ">
+      <div id='features' className="flex flex-col items-center justify-center w-full gap-8 ">
         <h2 className='font-semibold color-[#000] text-[48px] my-[40px]'>Benefits for business clients</h2>
         <div className="flex items-center justify-center gap-4 w-[65%]">
           <div className="flex flex-col gap-2 bg-[#F8F8F8] rounded-[15px] p-[40px] w-full h-[354px]">

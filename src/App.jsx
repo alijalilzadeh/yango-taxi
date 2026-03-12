@@ -1,7 +1,7 @@
 import './App.css'
 import Navbar from './components/Navbar'
 import Request from './components/Request'
-import Benefits from './components/Benefits'
+import Benefits from './components/Features'
 import Manage from './components/manageRides'
 import Solution from './components/Solution'
 import Registration from './components/Registration'

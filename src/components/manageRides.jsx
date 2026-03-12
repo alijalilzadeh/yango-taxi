@@ -15,7 +15,7 @@ function manageRides() {
               <p className='text-[16px] text-[#666666] font-normal'>Control employee access and usage</p>
               <p className='text-[16px] text-[#666666] font-normal'>Generate electronic documents, invoices, and customizable reports</p>
             </div>
-            <a className='w-[70%] flex items-center justify-center text-[#fff] font-medium bg-[#FF0000] cursor-pointer hover:bg-[#FF4C4C] hover:text-[#FFFBFB] whitespace-nowrap  text-[20px] px-[60px] py-[13px] rounded-full' href="">Become a corporate client</a>
+            <a className='w-[70%] flex items-center justify-center text-[#fff] font-medium bg-[#FF0000] cursor-pointer hover:bg-[#FF4C4C] hover:text-[#FFFBFB] whitespace-nowrap  text-[20px] px-[60px] py-[13px] rounded-full' href='#registration'>Become a corporate client</a>
           </div>
         </div>
       </div>
