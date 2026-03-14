@@ -9,7 +9,7 @@ function Registration() {
         </div>
         <div className="flex flex-col gap-4 w-[80%]">
           <h2 className="text-[#000] text-[32px] font-medium">Company registration</h2>
-          <div className="flex flex-col gap-8 w-[80%]">
+          <div className="flex flex-col gap-8 w-[81%]">
             <div className="flex flex-col gap-2">
               <span className='text-[12px] font-medium'>Company name</span>
               <input required type="text" placeholder='Yango Rides for Business' className='px-[13px] py-[12px] border-1 border-[#CCCCCC] rounded-[10px] w-full border-1 focus:border-[#FA3E2C] focus:outline-none' />
